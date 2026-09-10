@@ -1,0 +1,13 @@
+claim_id,portal,status,status_cleaned,method_used
+1001,PortalA,Approved,approved,rule
+1002,PortalB,APPROVED,approved,rule
+1003,PortalC,appr,approved,rule
+1004,PortalA,Pending Review,pending,rule
+1005,PortalB,pending_review,pending,rule
+1006,PortalC,In Review,pending,rule
+1007,PortalA,accepted,pending,ai
+1008,PortalB,waiting,pending,ai
+1009,PortalC,Approved,approved,rule
+1010,PortalA,denied,pending,ai
+101,PortalA,Claim Declined,pending,ai
+110,PortalA,Waiting for decision,pending,ai
