@@ -1,0 +1,4 @@
+source_id,invoice_number,vendor,date,total,extraction_method
+SRC-001,INV-2001,Acme Supplies Co,09/12/2026,"1,245.00",Deterministic Regex
+SRC-002,INV-2002,Global Traders,09/13/2026,980.50,Hybrid (Regex + Gemini/Review)
+SRC-003,INV-2003,Bright Logistics,09/14/2026,"2,310.75",Deterministic Regex

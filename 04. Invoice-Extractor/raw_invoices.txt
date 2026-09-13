@@ -1,0 +1,11 @@
+Invoice #: INV-2001
+Vendor: Acme Supplies Co
+Date: 09/12/2026
+Total: $1,245.00
+---
+Invoice: INV-2002 - Vendor Global Traders - dated 09/13/2026 - Amount Due $980.50
+---
+Invoice #: INV-2003
+Vendor: Bright Logistics
+Date: 09/14/2026
+Total: $2,310.75
