@@ -1,0 +1,13 @@
+total_records,avg_turnaround_days,avg_sla_target,overall_pct_over_sla,executive_narrative
+12,3.67,3.25,41.7,"**Executive Takeaway:**
+Overall operations are currently underperforming, yielding an average turnaround time of 3.67 days against a 3.25-day SLA target and an overall SLA breach rate of 41.7% across 12 total records. This underperformance is driven entirely by significant processing delays within specific request categories.
+
+**Operational Bottlenecks:**
+* **Equipment:** Critical bottleneck with a 100.0% breach rate, averaging 7.0 turnaround days against a 5.0-day SLA target across 3 records.
+* **Travel:** Secondary bottleneck representing the highest volume (4 records), with a 50.0% breach rate and an average turnaround of 3.5 days exceeding the 3.0-day SLA target.
+*(Note: Meals and Software are performing effectively with 0.0% breach rates).*
+
+**Recommended Actions:**
+1. **Target Equipment Workflow Intervention:** Conduct a root-cause analysis on Equipment fulfillment to eliminate bottlenecks causing the 7.0-day turnaround and bring the 100.0% breach rate to compliance.
+2. **Streamline Travel Approvals:** Review and optimize the approval pipeline for Travel requests to reduce the 3.5-day processing time and eliminate the 50.0% breach rate on high-volume items.
+3. **Cross-Apply Best Practices:** Benchmark the intake and approval steps of Meals and Software (both achieving 0.0% breach rates) to standardize procedures across high-risk categories."
