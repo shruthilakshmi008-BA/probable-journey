@@ -1,0 +1,9 @@
+So basically the biggest issue right now is that when a purchase request
+comes in from a branch, nobody knows who's supposed to approve it if
+it's over 50k. Also people keep submitting requests without attaching
+the vendor quote, and then finance has to chase them down which wastes
+like two days every time. Oh and one more thing - the system doesn't
+send any reminder if an approval sits pending for too long, so stuff
+just sits there. We really need approvals to happen within 3 business
+days max. Also would be nice if finance could see a simple dashboard of
+all pending requests instead of digging through emails.

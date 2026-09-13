@@ -1,0 +1,6 @@
+requirement_id,description,type,priority,source_extraction_method
+REQ-001,"The system must automatically route purchase requests exceeding $50,000 to the designated approval authority.",Functional,High,Google Gemini
+REQ-002,The system must require a vendor quote attachment before allowing a user to submit a purchase request.,Functional,High,Google Gemini
+REQ-003,The system must send automated reminder notifications for purchase requests that remain pending approval.,Functional,Medium,Google Gemini
+REQ-004,The system must process and complete purchase request approvals within a maximum of three business days.,Non-Functional,High,Google Gemini
+REQ-005,The system must provide a dashboard displaying all pending purchase requests for the finance department.,Functional,Medium,Google Gemini
