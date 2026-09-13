@@ -1,0 +1,6 @@
+requirement_id,description,type,priority
+REQ-001,The biggest issue right now is that when a purchase request comes in from a branch nobody knows who is supposed to approve it if it is over 50k,Functional,High
+REQ-002,People keep submitting requests without attaching the vendor quote,Functional,Medium
+REQ-003,The system does not send any reminder if an approval sits pending for too long,Non-Functional,High
+REQ-004,Need approvals to happen within 3 business days max,Non-Functional,High
+REQ-005,Finance should see a simple dashboard of all pending requests,Functional,Low
